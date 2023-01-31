@@ -1,0 +1,9 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Default Light+", 
+    "editor.fontSize": 18, 
+    "editor.tabSize": 2, 
+    "extensions.ignoreRecommendations": false, 
+    "editor.lineNumbers": "off", 
+    "emmet.includeLanguages": {"*.erb": "html", "ruby": "html"}
+}
